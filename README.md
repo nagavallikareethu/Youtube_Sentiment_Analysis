@@ -24,5 +24,9 @@ Data Used:-
 Excution in Google colab:-
 -<a href="https://colab.research.google.com/drive/1_X0VFjRsIlNJ7oQmqLZsedADxWTezHKr">Google Colab</a>
 
+![Screenshot 2024-11-28 120536](https://github.com/user-attachments/assets/c0ca6eec-b350-4f2b-a3b1-9f27a2cbfeca)
+
+
+
 
 
