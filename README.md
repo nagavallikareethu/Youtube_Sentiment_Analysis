@@ -23,3 +23,7 @@ Data Used:-
 -<a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/-H0BcPr512mhbTDDfkcTJA/comments-with-emotions.csv">Data Set</a>
 Excution in Google colab:-
 -<a href="https://colab.research.google.com/drive/1_X0VFjRsIlNJ7oQmqLZsedADxWTezHKr">Google Colab</a>
+
+Picture:-
+-<a href="C:\Users\nagav\OneDrive\Desktop\Screenshot 2024-11-28 120536.png">
+
